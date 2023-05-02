@@ -1,16 +1,32 @@
-# camera_button
+# Camera Button
 
-A new Flutter project.
+Camera Button is a custom button widget that shows a button with a live camera preview. This project is created just for fun to show "#Flutter can do this too".
 
-## Getting Started
+Inspired by [this tweet of web implementation](https://twitter.com/alexwidua/status/1630998774247030786)
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/47558577/235603316-fbb916a5-bdd5-4472-843d-b840dbd13a8f.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Online Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can see the online demo of Camera Button at https://payamzahedi.com/camera_button/.
+
+
+### Run
+
+To run this project on your local machine, you need to have Flutter installed. Then, follow these steps:
+
+1. Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/camera-button.
+```
+
+
+2. Open the project in your preferred IDE or text editor.
+
+3. Run the project using the Flutter CLI:
+
+``` bash
+flutter run
+```
